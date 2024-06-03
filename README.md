@@ -11,7 +11,7 @@ chmod +x install.sh
 ./install.sh
 
 
-![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles/blob/master/images/fail.png)
+![Deja una estrella. Comparte.](https://github.com/Mnvim/bspwm-parrot/blob/master/images/1.png)
 
 
 "FULL UPGRADEADO"
