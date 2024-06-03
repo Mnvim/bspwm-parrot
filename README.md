@@ -2,13 +2,17 @@
 
 1.- Uso del Script
 
-git clone https://github.com/xJackSx/BSPWMparrot.git
+git clone https://github.com/Mnvim/bspwm-parrot.git 
 
-cd BSPWMparrot
+cd bspwm-parrot
 
 chmod +x install.sh
 
 ./install.sh
+
+
+![Deja una estrella. Comparte.](https://github.com/Mnvim/dotfiles/blob/master/images/fail.png)
+
 
 "FULL UPGRADEADO"
 
@@ -30,6 +34,6 @@ La configuración del mismo es al gusto.
 
 Esta no esta incluida en el scripts
 
-UNA MENCION HONORIFICA A Mr. Pr1ngl3s, por su gran colaboración.
+UNA MENCION HONORIFICA A Mr. xJackSx.
 
 UN GRAN SALUDO A NUESTRO GRAN AMIGO S4VITAR.
