@@ -36,7 +36,7 @@ mkdir ~/github
 
 cd ~/github
 git clone --recursive https://github.com/polybar/polybar
-git clone https://github.com/yshui/picom.git
+git clone https://github.com/pijulius/picom.git
 
 # Instalando Polybar
 
