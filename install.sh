@@ -8,9 +8,9 @@ ruta=$(pwd)
 
 # Actualizando el sistema
 
-#sudo apt update
+sudo apt update
 
-#sudo full-upgrade
+sudo apt full-upgrade
 
 # Instalando dependencias de Entorno
 
